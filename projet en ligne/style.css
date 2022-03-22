@@ -1,0 +1,156 @@
+head
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 10;
+    padding: 0;
+    background-color: black;
+}
+.wrapper
+{
+	float: right;
+    align-items: center;
+     color: black;
+     margin-left: 150px;
+     margin-top: 100px;
+}
+.iphone13mini
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone13
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone13pro
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone13promax
+{
+	width: 150px;
+	height: 150px;
+}
+.i13
+{
+	text-align: center;
+}
+.logo
+{
+width: 150px;
+height: 150px;
+}
+.marginleft
+{
+	background-color: grey;
+	width: 150px;
+	height: 150px;
+}
+*
+{
+
+}
+.text
+{
+	text-align: center;
+	margin: 0px 250px auto 350px;
+    background-color:white;
+    width: 1000px;
+    height:700px;
+}
+.body2
+{
+	background-color: white;
+	width: 500px;
+	height: 1000px;
+	margin-left: 700px;
+}
+.iphone12mini
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone12
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone12pro
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone12promax
+{
+	width: 150px;
+	height: 150px;
+}
+.i12
+{
+	text-align: center;
+}
+.iphone11
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone11pro
+{
+	width: 150px;
+	height: 150px;
+}
+.iphone11promax
+{
+	width: 150px;
+	height: 150px;
+}
+.i11
+{
+	text-align: center;
+}
+.iphonex
+{
+	width: 150px;
+	height: 150px;
+}
+.iphonexr
+{
+	width: 150px;
+	height: 150px;
+}
+.iphonexs
+{
+	width: 150px;
+	height: 150px;
+}
+.iphonexsmax
+{
+	width: 150px;
+	height: 150px;
+}
+.iX
+{
+	text-align: center;
+}
+.iphonese
+{
+	width: 150px;
+	height: 150px;
+}
+.iphonese2020
+{
+	width: 150px;
+	height: 150px;
+} 
+.iSE
+{
+	text-align: center;
+}
